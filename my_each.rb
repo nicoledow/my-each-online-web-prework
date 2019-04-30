@@ -1,10 +1,10 @@
-my_array = ["cat", "goat", "book", "Arizona"]
+my_array = ["dog", "Arizona", "chocolate", "sleep"]
 
-def my_each(array)
+def my_each(my_array)
   i = 0
   
-  while i < array.length
+  while i < my_array.length
     i += 1
-    yield words[i]
   end
+  
 end
