@@ -1,3 +1,5 @@
-def my_each # put argument(s) here
-  # code here
+candies = ["Reeses", "Starbursts", "Heath Bars", "Chocolate pretzels"]
+
+def my_each(candies)
+  
 end
