@@ -4,7 +4,7 @@ def my_each(candies)
   i = 0
 
   while i < candies.length
-    
+    puts candies[i]
     i += 1
   end
 
