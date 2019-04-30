@@ -1,9 +1,9 @@
-words = ["cat", "goat", "book", "Arizona"]
+my_array = ["cat", "goat", "book", "Arizona"]
 
-def my_each(words)
+def my_each(array)
   i = 0
   
-  while i < words.length
+  while i < array.length
     i += 1
     yield words[i]
   end
