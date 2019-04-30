@@ -1,11 +1,5 @@
-candies = ["Reeses", "Starbursts", "Heath Bars", "Chocolate pretzels"]
+words = ["cat", "goat", "book", "Arizona"]
 
-def my_each(candies)
-  i = 0
-
-  while i < candies.length
-    puts candies[i]
-    i += 1
-  end
+def my_each(words)
 
 end
